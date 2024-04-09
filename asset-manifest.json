@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saqlainkhan1904/projectgroup.git/static/css/main.5b1ffe7d.css",
+    "main.js": "/saqlainkhan1904/projectgroup.git/static/js/main.0b332692.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/saqlainkhan1904/projectgroup.git/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/saqlainkhan1904/projectgroup.git/index.html",
+    "main.5b1ffe7d.css.map": "/saqlainkhan1904/projectgroup.git/static/css/main.5b1ffe7d.css.map",
+    "main.0b332692.js.map": "/saqlainkhan1904/projectgroup.git/static/js/main.0b332692.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/saqlainkhan1904/projectgroup.git/static/js/787.4a5f9ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1ffe7d.css",
+    "static/js/main.0b332692.js"
+  ]
+}
